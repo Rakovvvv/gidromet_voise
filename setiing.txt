@@ -1,0 +1,1 @@
+['prognoz@goml.pogoda.by', 'ublhjvtn', '192.168.215.40', 'no', 'no', 'gidr2@goml.pogoda.by', 'info@goml.pogoda.by', 'met@goml.pogoda.by', 'd:|Погода|']
